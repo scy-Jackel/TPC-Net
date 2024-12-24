@@ -1,3 +1,7 @@
+![image](struct.png)
+
+![image](process.png)
+
 ## Data preparation
 
 Save the Z-axis slice to the brain image tiff file.<br><br>
